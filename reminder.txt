@@ -1,4 +1,5 @@
 ---- ----- -----
 Must add folders into this repo
 THROUGH gitbash only.
+add files to git ignore!
 STAT.
