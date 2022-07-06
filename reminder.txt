@@ -3,3 +3,6 @@ Must add folders into this repo
 THROUGH gitbash only.
 add files to git ignore!
 STAT.
+
+
+## See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
