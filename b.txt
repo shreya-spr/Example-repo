@@ -1,5 +1,0 @@
-this is for 
-the 
-git and
-gitHub 
-workshop
